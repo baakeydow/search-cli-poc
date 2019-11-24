@@ -7,3 +7,5 @@ POC search words in files
 
 ## Run Project
 >```mvn clean package && java -jar target/doftom-search-cli.jar .```  
+--- or ---  
+>```sh run_docker_container.sh```  
