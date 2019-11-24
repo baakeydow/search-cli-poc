@@ -1,0 +1,20 @@
+● The rank score must be 100% if a file contains all the words
+● It must be 0% if it contains none of the words
+● It should be between 0 and 100 if it contains only some of the words, but the exact ranking
+formula is up 2 you to choose and implement
+Expectations (please read carefully)
+● The program must run and return results on search queries
+● The code must include unit tests and be well structured to support future maintenance and
+evolutions. ​Try to use the best practices that you have learned from your past experiences
+● You should be spending 2-3 hours on the task, but approaching 'production like' quality is more
+important than implementation speed and feature completeness
+● External libraries are forbidden, other than test/mocking frameworks
+● A build procedure whenever applicable (compiled language)
+Things to consider in your implementation
+● Ranking score design — ​start with something basic​, then iterate as time allows
+● The in memory representation — searches should be relatively efficient
+● What constitutes a word ?
+● What constitutes two words being equal (and matching) ?
+● You will be discussing your code in the next stage of the interview process with our engineers,
+so keep in mind how your code can be iterated on, how it can be maintained and what features
+could be added later

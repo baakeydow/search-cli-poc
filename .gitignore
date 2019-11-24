@@ -1,0 +1,11 @@
+target
+.DS_Store
+.vscode
+*.sw?
+.#*
+*#
+*~
+.classpath
+.project
+.settings
+/com
